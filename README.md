@@ -1,5 +1,5 @@
 # Getting started with git
 
 1. Naveen
-2. Varun
+2. Varun Krishnan
 3. Ram
